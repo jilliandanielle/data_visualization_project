@@ -8,17 +8,17 @@ This project focuses on creating visually appealing and interactive data visuali
 
 - **Plotly**: Plotly is a powerful library that enables the creation of interactive visualizations, particularly well-suited for digital devices. Its built-in responsiveness allows the visualizations to automatically adapt and resize to various display devices. Plotly offers an extensive range of chart types and interactive features, enriching the user experience.
 
-- **Python**: Python, a versatile and widely-used programming language, served as the foundation for this project. Python offers a rich ecosystem of libraries and tools for data manipulation, analysis, and visualization, making it an ideal choice for this data visualization project.
+- **Python**
 
-- **Jupyter Notebook**: Jupyter Notebook is an open-source web application that provides an interactive coding environment, allowing for the creation and sharing of documents containing code, visualizations, and explanatory text. This project utilized Jupyter Notebook as the development environment for creating, running, and documenting the data visualizations.
+- **Jupyter Notebook**:
 
 ## Data Sources and Processing
 
-The data used in this project originated from two main sources: generated data created from a Python script and external data obtained from the internet in CSV and JSON formats.
+The data used in this project originated from two main sources: random generated data created from a Python script and external data obtained from the internet in CSV and JSON formats.
 
-- **Generated Data**: A Python script was employed to generate random walk data. Random walks are commonly used in statistical analysis and modeling. The generated data served as a basis for creating various visualizations within this project.
+- **Generated Data**: A Python script was created to generate random walk data. Random walks are commonly used in statistical analysis and modeling. 
 
-- **External Data**: Data was obtained from the internet in CSV and JSON formats. The data was cleaned and extracted to remove any inconsistencies or irrelevant information. Subsequently, this cleaned data was utilized to construct line graphs, scatter plots, histograms, heat maps, and a world map visualization with interactive features such as hover text.
+- **External Data**: Data was obtained from the internet in CSV and JSON formats. The data was cleaned and extracted to remove any inconsistencies or irrelevant information. This cleaned data was utilized to construct line graphs, scatter plots, histograms, heat maps, and a world map visualization with interactive features such as hover text.
 
 ## Visualizations
 
